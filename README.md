@@ -1,5 +1,7 @@
 # swiper-bundle-build
 
+Swiper v11 - MIT License - https://swiperjs.com/
+
 ## ⚙️ Tools
 `node --version >= v18`
 
@@ -15,4 +17,6 @@
 
 ## 🛠️ Simple build
 
-`npx rollup -c `
+`npx rollup -c`
+
+You can add modules (for example: Autoplay, Controller... etc.)
