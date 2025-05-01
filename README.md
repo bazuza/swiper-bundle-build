@@ -22,7 +22,7 @@ Swiper v11 - MIT License - https://swiperjs.com/
 You can add modules (for example: Autoplay, Controller... etc.)
 
 #### Link to CDN:
-https://cdn.jsdelivr.net/gh/bazuza/{repository_name}@main/dist/swiper-custom-bundle.js
+https://cdn.jsdelivr.net/gh/{user_name}/{repository_name}@main/dist/swiper-custom-bundle.js
 
 #### Clear Cache:
-https://purge.jsdelivr.net/gh/bazuza/{repository_name}@main/dist/swiper-custom-bundle.js
+https://purge.jsdelivr.net/gh/{user_name}/{repository_name}@main/dist/swiper-custom-bundle.js
